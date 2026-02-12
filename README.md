@@ -1,5 +1,42 @@
 # 💫 About Me:
-I’m currently working on AI-powered full-stack systems<br>I’m looking to collaborate on quant, Full-stack web apps, AI/ML projects, cloud-native applications<br>I’m looking for help with Advanced ML model optimization, quant related scalable system design<br>I’m currently learning ML, quant based forecasting, Laravel, .NET<br>Ask me about Java, C++, JavaScript, React, Next.js, Node.js, MongoDB, MySQL, AWS, Docker, CI/CD, AI-integrated applications.<br>Fun fact Still figuring out what domain works out for me
+## 💫 About Me
+
+Hi there 👋  
+I’m Pratyush — CSE final-year • AI + Full-Stack builder • Cloud & ML focused
+
+🔭 Currently building  
+• AI-powered full-stack systems  
+• Real-time data & prediction apps  
+• ML-driven analytics projects  
+
+📊 Exploring (Quant Track)  
+• Quant tech stacks & workflows  
+• Forecasting + time-series models  
+• Data-driven trading research patterns  
+
+🤝 Open to collaborate on  
+• Full-stack web platforms  
+• AI / ML applications  
+• Cloud-native systems  
+• Quant-oriented tech projects  
+
+🛠️ Tech I work with  
+Java • C++ • JavaScript  
+React • Next.js • Node.js  
+MongoDB • MySQL • Firebase  
+TensorFlow • XGBoost • LSTM  
+AWS • Docker • Linux • CI/CD  
+
+🌱 Currently learning  
+• Advanced ML pipelines  
+• Quant modeling approaches  
+• Cloud & DevOps practices  
+
+💬 Ask me about  
+AI-integrated apps • Backend systems • React stacks • ML projects • Cloud deployments  
+
+⚡ Fun fact  
+Most of my builds mix AI + data + deployable infrastructure
 
 
 ## 🌐 Socials:
@@ -15,10 +52,6 @@ I’m currently working on AI-powered full-stack systems<br>I’m looking to col
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush1704&layout=compact&theme=dark)
 
 ---
-
-# 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyush1704&theme=github-dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pratyush1704&icon=0&color=0)](https://visitcount.itsvg.in)
