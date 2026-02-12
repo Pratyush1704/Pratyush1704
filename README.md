@@ -12,6 +12,10 @@ I’m currently working on AI-powered full-stack systems<br>I’m looking to col
 ![](https://nirzak-streak-stats.vercel.app/?user=Pratyush1704&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush1704&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyush1704&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
