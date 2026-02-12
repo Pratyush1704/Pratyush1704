@@ -1,41 +1,11 @@
-# 💫 About Me:
+## 💫 About Me
 
-Hi there 👋  
-I’m Pratyush — CSE final-year • AI + Full-Stack builder • Cloud & ML focused
-
-🔭 Currently building  
-• AI-powered full-stack systems  
-• Real-time data & prediction apps  
-• ML-driven analytics projects  
-
-📊 Exploring (Quant Track)  
-• Quant tech stacks & workflows  
-• Forecasting + time-series models  
-• Data-driven trading research patterns  
-
-🤝 Open to collaborate on  
-• Full-stack web platforms  
-• AI / ML applications  
-• Cloud-native systems  
-• Quant-oriented tech projects  
-
-🛠️ Tech I work with  
-Java • C++ • JavaScript  
-React • Next.js • Node.js  
-MongoDB • MySQL • Firebase  
-TensorFlow • XGBoost • LSTM  
-AWS • Docker • Linux • CI/CD  
-
-🌱 Currently learning  
-• Advanced ML pipelines  
-• Quant modeling approaches  
-• Cloud & DevOps practices  
-
-💬 Ask me about  
-AI-integrated apps • Backend systems • React stacks • ML projects • Cloud deployments  
-
-⚡ Fun fact  
-Most of my builds mix AI + data + deployable infrastructure
+AI + Full-Stack builder • Cloud & ML focused  
+🔭 Working on AI-powered full-stack & real-time data apps  
+📊 Exploring quant tech, forecasting & time-series modeling  
+🤝 Open to collaborate on AI/ML, full-stack, cloud, quant projects  
+🛠️ Java • C++ • JavaScript • React • Next.js • Node • AWS • Docker  
+🌱 Learning advanced ML pipelines & quant-oriented system design
 
 
 ## 🌐 Socials:
