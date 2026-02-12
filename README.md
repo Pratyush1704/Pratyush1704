@@ -14,7 +14,7 @@ I’m currently working on AI-powered full-stack systems<br>I’m looking to col
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyush1704)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyush1704&theme=radical&no-frame=false&no-bg=false&margin-w=4)
