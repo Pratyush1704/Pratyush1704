@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 💫 About Me
 
 Hi there 👋  
 I’m Pratyush — CSE final-year • AI + Full-Stack builder • Cloud & ML focused
